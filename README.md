@@ -87,9 +87,16 @@ pip install numpy pandas matplotlib tensorflow keras scikit-learn statsmodels yf
 - Experiment with additional image processing techniques for feature extraction.
 - Incorporate advanced text analysis methods for textual data.
 
-## RESULTS COMPARISON
+
+
 ## Results
 The **CNN (Time + YOLO)** model achieved the lowest RMSE of 8.16.
 
-### RMSE Comparison
+![image](https://github.com/user-attachments/assets/6f5db772-b359-4823-bdcf-fe666ede625f)
+
+![image](https://github.com/user-attachments/assets/d44e2c4a-7ec7-4eaf-90dd-055de585ea4d)
+
+
+### RESULTS[RMSE] COMPARISON
+![image](https://github.com/user-attachments/assets/8c907667-1d47-4632-819b-5305fd848b8a)
 
