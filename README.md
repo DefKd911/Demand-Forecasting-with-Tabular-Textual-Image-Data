@@ -92,6 +92,8 @@ pip install numpy pandas matplotlib tensorflow keras scikit-learn statsmodels yf
 ## Results
 The **CNN (Time + YOLO)** model achieved the lowest RMSE of 8.16.
 
+![image](https://github.com/user-attachments/assets/c2f6380b-a9fa-4d23-b8e9-24478f9c8fbc)
+
 ![image](https://github.com/user-attachments/assets/6f5db772-b359-4823-bdcf-fe666ede625f)
 
 ![image](https://github.com/user-attachments/assets/d44e2c4a-7ec7-4eaf-90dd-055de585ea4d)
